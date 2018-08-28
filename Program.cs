@@ -22,7 +22,7 @@ namespace Loto
             else if (numar2 == dice)
                 Console.WriteLine("\nCongratulations Player 2!!!!!");
             else
-                Console.WriteLine("\nNo winners :(");
+                Console.WriteLine("\nNo winnedjghjdfhgkfrs :(");
             Console.ReadKey();
 
         }
